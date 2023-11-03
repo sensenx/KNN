@@ -1,2 +1,2 @@
-# machinelearning
-praktikum machine learning
+# KNN
+praktikum machine learning - k-nearest neighbors
